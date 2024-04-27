@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+    background-image: url('background.jpg');
+    background-size: cover;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #1a33d7;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #titleContainer {
+    margin-top: 20px;
+    font-size: 18px;
+    color:white;
+  }
+  
